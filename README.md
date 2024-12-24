@@ -11,7 +11,7 @@ Here are some ideas to get you started:-->
 - ⚡ Fun fact: I can mesmerize you with my singing and guitar skills, also I love to play Valorant
 
 - ABOUT ME
-- I am a Senior year Computer Science and Engineering with Data Science Student at Mar Athanasius College Of Engineering, Kothamangalam.
-- I am an enthusiastic and responsible individual with a passion for a lot of things including coding, gaming, music etc.
+- I am a Computer Science and Engineering with Data Science Graduate from Mar Athanasius College Of Engineering, Kothamangalam.
+- I am an enthusiastic individual with a passion for a lot of things including coding, gaming, music etc.
 - I am always looking for something fun and new to learn.
 
